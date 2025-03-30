@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-A software developer, skilled in JavaScript, TypeScript, Next.js and React, with experience in full-stack development with Python, Flask, and SQL. With a background in leadership, teaching, and entrepreneurship, I bring adaptability, problem-solving, and a big-picture mindset. I document coding concepts and discoveries on my blog to reinforce my experiences. 🌟 Let’s connect!
+Full Stack Software Developer with a strong foundation in JavaScript and TypeScript. Experience building using Next.js or React and quick to learn new frameworks and technologies. As a recent full stack intern, learned Firestore and built an API in less than 48 hours. A driven, self-starter who loves working with a team to solve challenging problems, evidenced as a small business founder and entrepreneur.
 
-[Blog posts and portfolio](https://tomwinskell.simple.ink/)
+- [Blog posts and portfolio](https://tomwinskell.simple.ink/)
+- [LinkedIn](https://www.linkedin.com/in/tomwinskell/)
 
 Reach me at: tomwinskell@gmail.com
 
